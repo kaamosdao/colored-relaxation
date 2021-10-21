@@ -1,8 +1,8 @@
 # <p align="center">Colored Relaxation</p>
 
-```sh
+<p align="center">
 Click left button and relax)
-```
+</p>
 
-[Here you can enjoy app deployed on vercel!](https://colored-relaxation.vercel.app/)
+[<p align="center">Here you can enjoy app deployed on vercel!</p>](https://colored-relaxation.vercel.app/)
 
