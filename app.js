@@ -1,5 +1,5 @@
 const board = document.querySelector('#board');
-const SQUARES_NUMBER = 1722;
+const SQUARES_NUMBER = 1739;
 
 const getRandomColor = () =>
   '#' + (Math.random().toString(16) + '000000').substring(2, 8);

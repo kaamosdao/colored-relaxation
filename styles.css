@@ -24,7 +24,7 @@ body {
   width: 15px;
   height: 15px;
   background: #1d1d1d;
-  margin: 2px;
+  margin: 1px;
   box-shadow: 0 0 2px #000;
   transition: 2.5s ease;
 }
