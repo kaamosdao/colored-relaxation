@@ -1,0 +1,19 @@
+{
+  "name": "hoverboard",
+  "version": "1.0.0",
+  "description": "colored relaxation",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kaamosdao/colored-relaxation.git"
+  },
+  "author": "Alexander Demidov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaamosdao/colored-relaxation/issues"
+  },
+  "homepage": "https://github.com/kaamosdao/colored-relaxation#readme"
+}
